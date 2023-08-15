@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/YankeeBites/static/css/main.035ecd44.css",
+    "main.js": "/YankeeBites/static/js/main.2f16813a.js",
+    "static/media/menu.jpg": "/YankeeBites/static/media/menu.a2110e57f972ea71249a.jpg",
+    "static/media/restaurant.jpg": "/YankeeBites/static/media/restaurant.ac8b162f5cddd04965fe.jpg",
+    "static/media/bg.jpg": "/YankeeBites/static/media/bg.9399c285e05a7a35cab2.jpg",
+    "static/media/deal.jpg": "/YankeeBites/static/media/deal.4a69b661a20579480d7f.jpg",
+    "static/media/logo.png": "/YankeeBites/static/media/logo.36105a00bde8dcf158d6.png",
+    "index.html": "/YankeeBites/index.html",
+    "main.035ecd44.css.map": "/YankeeBites/static/css/main.035ecd44.css.map",
+    "main.2f16813a.js.map": "/YankeeBites/static/js/main.2f16813a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035ecd44.css",
+    "static/js/main.2f16813a.js"
+  ]
+}
